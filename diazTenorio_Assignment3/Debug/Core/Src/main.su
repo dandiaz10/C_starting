@@ -1,0 +1,11 @@
+main.c:63:10:readSensor	24	static
+main.c:88:7:getAnalogVoltage	24	static
+main.c:112:7:getTemperature	24	static
+main.c:134:6:printLcdVcn	40	static
+main.c:167:6:rgbLed	16	static
+main.c:212:5:main	24	static
+main.c:267:6:SystemClock_Config	184	static
+main.c:338:13:MX_ADC1_Init	32	static
+main.c:395:13:MX_USART2_UART_Init	8	static
+main.c:430:13:MX_GPIO_Init	40	static
+main.c:472:6:Error_Handler	4	static

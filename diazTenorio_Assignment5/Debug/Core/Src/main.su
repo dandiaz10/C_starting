@@ -1,0 +1,7 @@
+main.c:76:5:main	216	static
+main.c:289:6:SystemClock_Config	184	static
+main.c:352:13:MX_USART2_UART_Init	8	static
+main.c:387:13:MX_GPIO_Init	40	static
+main.c:429:8:readPush	40	dynamic
+main.c:465:6:printLcdVcn	16	static
+main.c:489:6:Error_Handler	4	static
